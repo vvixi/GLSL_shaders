@@ -26,8 +26,8 @@ void main() {
     
     vec3 color = palette(d + u_time * 0.2);
     
-    d = sin(d*7. - u_time)/8.;
-    d = abs((d));
+    d = sin(d * 7.0 - u_time) / 8.0;
+    d = abs(d);
     d = 0.04 / d;
 
     color *= d;
