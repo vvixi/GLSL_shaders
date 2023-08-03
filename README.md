@@ -9,3 +9,5 @@ Experiments in GLSL.
 ![glitchgrid](https://github.com/vvixi/GLSL_shaders/blob/main/screens/glitchgrid.png)
 ![holofoil](https://github.com/vvixi/GLSL_shaders/blob/main/screens/holofoil.png)
 ![kaleido](https://github.com/vvixi/GLSL_shaders/blob/main/screens/kaleido.png)
+![lava](https://github.com/vvixi/GLSL_shaders/blob/main/screens/lava.png)
+![oilslick](https://github.com/vvixi/GLSL_shaders/blob/main/screens/oilslick.png)
