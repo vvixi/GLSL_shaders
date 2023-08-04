@@ -11,3 +11,5 @@ Experiments in GLSL.
 ![kaleido](https://github.com/vvixi/GLSL_shaders/blob/main/screens/kaleido.png)
 ![lava](https://github.com/vvixi/GLSL_shaders/blob/main/screens/lava.png)
 ![oilslick](https://github.com/vvixi/GLSL_shaders/blob/main/screens/oilslick.png)
+![paintflow](https://github.com/vvixi/GLSL_shaders/blob/main/screens/paintflow.png)
+![propeller](https://github.com/vvixi/GLSL_shaders/blob/main/screens/propeller.png)
