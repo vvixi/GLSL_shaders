@@ -14,6 +14,7 @@ Experiments in GLSL.
 ![mirage](https://github.com/vvixi/GLSL_shaders/blob/main/screens/mirage.png)
 ![oilslick](https://github.com/vvixi/GLSL_shaders/blob/main/screens/oilslick.png)
 ![paintflow](https://github.com/vvixi/GLSL_shaders/blob/main/screens/paintflow.png)
+![pixel_wash](https://github.com/vvixi/GLSL_shaders/blob/main/screens/pixel_wash.png)
 ![propeller](https://github.com/vvixi/GLSL_shaders/blob/main/screens/propeller.png)
 ![ringwarp](https://github.com/vvixi/GLSL_shaders/blob/main/screens/ringwarp.png)
 ![splice](https://github.com/vvixi/GLSL_shaders/blob/main/screens/splice.png)
